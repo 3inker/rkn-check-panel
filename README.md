@@ -1,6 +1,6 @@
-# rkn-check-panel
+# RKN Check Panel
 
-Удобное меню для пакета [`rkn-block-checker`](https://pypi.org/project/rkn-block-checker/).
+Удобное меню для пакета [`rkn-block-checker`](https://github.com/MayersScott/rkn-block-checker).
 
 Оригинальный пакет работает только из командной строки. Эта обёртка добавляет простое меню с цифрами.
 
@@ -56,6 +56,10 @@
 2. Если Python не установлен — установите
 3. Выберите пункт `[12]` — установится основной пакет
 4. Пользуйтесь любым пунктом меню
+
+## 🔗 Ссылки
+
+- Оригинальный репозиторий: [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker)
 
 ## 📄 Лицензия
 
