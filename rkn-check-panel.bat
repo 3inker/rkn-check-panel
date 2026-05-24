@@ -5,7 +5,7 @@ setlocal enabledelayedexpansion
 :MAIN_MENU
 cls
 echo ============================================================
-echo   RKN Block Checker — Меню управления
+echo   RKN Block Checker — Панель
 echo ============================================================
 echo.
 echo   [1]  Полная проверка (whitelist + blacklist)
